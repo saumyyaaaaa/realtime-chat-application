@@ -1,6 +1,6 @@
-This is a scalable, realtime chat application with Node JS, React JS, and ChatEngine.io which supports group chats, 1-on-1 chats, realtime messaging, image and file support, read receipts and more!
+This is a scalable, real-time chat application with Node JS, React JS, and ChatEngine.io that supports group chats, 1-on-1 chats, real-time messaging, image and file support, read receipts, and more!
 
-# Snapshots of the Project!
+## snapshots-of-the-project
 
 ![1](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/18edc8c1-0559-4c2f-a2b3-7098850cd1f8)
 
@@ -17,3 +17,14 @@ This is a scalable, realtime chat application with Node JS, React JS, and ChatEn
 ![9](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/99ae99c4-1ae0-45fe-9463-01eeb3e87492)
 
 ![10](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/225a447c-fe79-4247-a7f8-506107efeff7)
+
+## available-scripts
+
+First, in the backend folder of the project directory, you can run:
+### `start nodemon index.js`
+This will post and authenticate the REST request for the user to login.
+
+Then, in the frontend folder of the project directory, you can run:
+### `npm run dev`
+Runs the app in the development mode.
+Open http://localhost:5173 to view it in your browser.
