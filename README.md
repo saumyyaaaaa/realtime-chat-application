@@ -24,6 +24,7 @@ First, in the backend folder of the project directory, you can run:
 ### `start nodemon index.js`
 This will post and authenticate the REST request for the user to login.
 
+
 Then, in the frontend folder of the project directory, you can run:
 ### `npm run dev`
 Runs the app in the development mode.
