@@ -2,21 +2,29 @@ This is a scalable, real-time chat application with Node JS, React JS, and ChatE
 
 ## snapshots-of-the-project
 
-![1](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/18edc8c1-0559-4c2f-a2b3-7098850cd1f8)
+![2](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/3f1a1ee9-6dc5-48e5-a680-8d37a16260be)
 
-![2](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/687a4ec1-3dfa-4e3b-b6fc-88a00d5f1af4)
+![3](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/e5ab711f-3d00-4b95-8fac-737f08136b78)
 
-![3](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/5f1e1ffe-5315-4a40-9cb0-847b3e3765b8)
+![4](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/9cbae673-af50-415d-b547-82db44c45c35)
 
-![6](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/1119bb3b-4b73-4cad-aec1-bed6ef28fd24)
+![6](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/9e4aed12-4afd-426c-b2e5-ae4e1ae6f6b0)
 
-![7](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/c4e2f1d6-f56b-4e8a-b0e6-643df4b9d8bf)
+![8](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/c1bf6a44-9766-42ea-8ae2-115bc4d753ee)
 
-![8](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/b1827c9f-acf6-49db-959e-30766c9187c3)
+![9](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/436d38ab-9d75-49e0-8a01-01e4b0f1403f)
 
-![9](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/99ae99c4-1ae0-45fe-9463-01eeb3e87492)
+![11](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/9b5ea44f-5bff-418a-958a-cd5d25259f23)
 
-![10](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/225a447c-fe79-4247-a7f8-506107efeff7)
+## snapshots-from-chatengine.io-of-the-backend
+
+![12](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/8718392a-39dd-4e5a-bcf3-c684974c9fd7)
+
+![13](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/c5955950-1bc9-4f92-a805-42646fd31fd4)
+
+![14](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/d89788a3-0def-4363-a71f-977558450b8b)
+
+![15](https://github.com/saumyyaaaaa/realtime-chat-application/assets/88661225/24e27324-a15b-4fd3-a13d-8c4dfe8f56c2)
 
 ## available-scripts
 
