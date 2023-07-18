@@ -1,5 +1,3 @@
-# realtime-chat-application
-
 This is a scalable, realtime chat application with Node JS, React JS, and ChatEngine.io which supports group chats, 1-on-1 chats, realtime messaging, image and file support, read receipts and more!
 
 # Snapshots of the Project!
